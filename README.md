@@ -1,6 +1,10 @@
 # git-demo
 A bootcamp demo repository
 
+## Contents
+* [Section 1](#Section-1)
+* *[Section 2](#Section-2)
+
 ## Section 1
 Lorem ipsum, dollar sic amet  
 Sample text
